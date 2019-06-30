@@ -1,0 +1,20 @@
+{
+  "name": "mood-app",
+  "version": "0.1.0",
+  "description": "PWA app to track personal or team mood",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manudefrutosvila/mood-app.git"
+  },
+  "keywords": [
+    "pwa",
+    "vue",
+    "mood"
+  ],
+  "author": "Manu de Frutos VIla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manudefrutosvila/mood-app/issues"
+  },
+  "homepage": "https://github.com/manudefrutosvila/mood-app#readme"
+}
